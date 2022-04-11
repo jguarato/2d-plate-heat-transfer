@@ -1,6 +1,6 @@
 % 2D plate in steady state
 % Heat transfer - General program for any boundary conditions
-% Made by: Jessica Guarato de Freitas Santos
+% Made by: Jessica Guarato
 % Last modified on: March 08, 2018
 
 clc; close all; clear all;
