@@ -1,6 +1,6 @@
 % 2D plate in transient regime using implicit scheme
 % Heat transfer - General program for any boundary conditions
-% Made by: Jessica Guarato
+% Created by: Jessica Guarato
 % Last modified on: June, 2016
 
 clc; clear all; close all;
